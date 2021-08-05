@@ -8,10 +8,10 @@ Key things to note:
 
 2. Based on the number of layers there are several configurations of VGG-
 # Congfig A
-![Loss Before Hyperparameter Tuning](config3.jpeg)
+![config img1](config3.jpg)
 
 # Config B
-![Loss After Hyperparameter Tuning](config4.png)
+![config img2](config4.png)
 
 3. One more interesting speciality of VGG network is that we can utilise it to separate the
 content and style of images. Basically the small filter size is the key here, it enables us to capture
